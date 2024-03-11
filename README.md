@@ -1,10 +1,12 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Habiba Abo Khalil 👋 
 
-<!--
-**HabibaAboKhalil/HabibaAboKhalil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Interested in anything related to the field of data analysis , AI and  programming </h1>
+<p align="center"> 
 
-Here are some ideas to get you started:
+Muslim/student at the Faculty of Electronic Engineering, Department of Computer Engineering and Science, Menoufia University
 
+Skills: 
+C++ / Python / java / Database / AI /Data analysis
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

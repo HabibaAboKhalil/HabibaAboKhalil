@@ -5,5 +5,5 @@ I'm Interested in anything related to the field of data analysis , AI and  progr
 Muslim/student at the Faculty of Electronic Engineering, Department of Computer Engineering and Science, Menoufia University
 <p align="center"> 
 Skills: 
-C++ / Python / java / Database / AI /Data analysis
+  Python /SQL / Excel / Tableau/ Database / ML /DL /Data analysis
 
